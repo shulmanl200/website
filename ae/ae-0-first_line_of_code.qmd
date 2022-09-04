@@ -46,7 +46,7 @@ The `diamonds` dataset includes basic information about 53940 diamonds including
 View(diamonds)
 ```
 
-The \_\_\_ dataset has \_\_\_ observations and \_\_\_ variables.
+The diamonds dataset has 53940 observations and 10 variables.
 
 ```{r help-on-dataset, eval=FALSE, echo=TRUE}
 ## What are the variables in this dataset?
@@ -55,6 +55,7 @@ The \_\_\_ dataset has \_\_\_ observations and \_\_\_ variables.
 
 1.  What do the "4 c's" of every diamond mean? What kind of variables are they? (hint: This [video](https://www.youtube.com/watch?v=FqB5Es1HXI4) may help, copy this into your notes under the title data types)
 
+## The 
 [ggplot](https://ggplot2.tidyverse.org/) is an R package that is used to create data visualizations. We will be using it throughout this course. The basic format for every ggplot command is:
 
 ```{r ggplot-syntax, eval=FALSE, echo=TRUE}
